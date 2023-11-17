@@ -1,7 +1,7 @@
 Complete project video presentation: https://drive.google.com/file/d/1bv4fGKHHu5SgxG05YfO-VRO8eJfvJk4L/view?usp=sharing
 
 **Project:** Generate Insights to Solve a Supply Chain Issue in FMCG Domain |
-                                                                                                                             |
+-------------------------------------------------------------------------------------------------------------------------------------------------
 **Problem Statement:**
 GDS Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metro/tier1 cities in the next 2 years.
 
