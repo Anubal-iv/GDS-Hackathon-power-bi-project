@@ -1,7 +1,8 @@
-Project: Generate Insights to Solve a Supply Chain Issue in FMCG Domain
 Complete project video presentation: https://drive.google.com/file/d/1bv4fGKHHu5SgxG05YfO-VRO8eJfvJk4L/view?usp=sharing
+
+**Project:** Generate Insights to Solve a Supply Chain Issue in FMCG Domain |
                                                                                                                              |
-Problem Statement:
+**Problem Statement:**
 GDS Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metro/tier1 cities in the next 2 years.
 
 GDS Mart is currently facing a problem where a few key customers have not extended the annual contract due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
