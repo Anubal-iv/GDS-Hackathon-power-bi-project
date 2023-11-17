@@ -1,5 +1,4 @@
 Complete project video presentation: https://drive.google.com/file/d/1bv4fGKHHu5SgxG05YfO-VRO8eJfvJk4L/view?usp=sharing
-Project documentation file: GDS Dashboard documentation
 **Project:** Generate Insights to Solve a Supply Chain Issue in FMCG Domain |
 -------------------------------------------------------------------------------------------------------------------------------------------------
 **Problem Statement:**
